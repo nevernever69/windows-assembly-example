@@ -1,2 +1,2 @@
 # windows-assembly-example
-writing example for the assembly in windows 
+writing example for the windows in assembly
